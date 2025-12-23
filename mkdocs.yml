@@ -48,4 +48,3 @@ plugins:
   - search
   - tags: 
       tags_file: concepts.md
-
