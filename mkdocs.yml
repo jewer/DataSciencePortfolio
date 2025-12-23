@@ -3,16 +3,18 @@ site_url: https://jewer.github.io/DataSciencePortfolio
 repo_url: https://github.com/jewer/DataSciencePortfolio
 repo_name: 'jewer/DataSciencePortfolio'
 docs_dir: docs/
+extra:
+  homepage: https://jewer.github.io/DataSciencePortfolio/projects/index.html
 theme:
   name: material
   palette:
     - scheme: default
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: Dark Mode
     - scheme: slate
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: Light Mode
   features:
     - navigation.instant
@@ -26,6 +28,7 @@ theme:
     - toc.integrate
     - search.suggest
     - search.highlight
+
 nav:
  - Home: index.md
  - Projects: 
@@ -49,4 +52,4 @@ markdown_extensions:
 plugins:
   - search
   - tags: 
-      tags_file: concepts.md
+      tags_file: projects/list.md
