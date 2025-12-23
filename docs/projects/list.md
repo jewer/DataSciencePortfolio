@@ -17,7 +17,7 @@ For more detail, [click here](childcare.md)
 
 ### SARIMA Time-series Retail Analysis
 
-For more detail, [click here](sarima.md)
+For more detail, [click here](sarima/sarima.md)
 
 ### Ticket Sales Uplift in MLB Games
 
