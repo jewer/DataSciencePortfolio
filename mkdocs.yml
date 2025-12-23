@@ -1,5 +1,7 @@
 site_name: Data Science Portfolio
 repo_url: https://github.com/jewer/DataSciencePortfolio
+repo_name: 'jewer/DataSciencePortfolio'
+docs_dir: docs/
 theme:
   name: material
   palette:
