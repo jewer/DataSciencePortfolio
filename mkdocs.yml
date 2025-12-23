@@ -1,4 +1,4 @@
-site_name: Data Science Portfolio
+site_name: Joshua Ewer's Data Science Portfolio
 site_url: https://jewer.github.io/DataSciencePortfolio
 repo_url: https://github.com/jewer/DataSciencePortfolio
 repo_name: 'jewer/DataSciencePortfolio'
@@ -30,11 +30,7 @@ theme:
     - search.highlight
 
 nav:
- - Home: index.md
- - Projects: 
-   - List: projects/list.md
-   - Project1: projects/project1.md
-   - Project2: projects/project2.md
+ - Projects: projects/list.md
  - Concepts: concepts.md
  - About: 
    - About Me: about/about.md
@@ -52,4 +48,4 @@ markdown_extensions:
 plugins:
   - search
   - tags: 
-      tags_file: projects/list.md
+      tags_file: concepts.md

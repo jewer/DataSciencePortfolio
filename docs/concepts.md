@@ -1,3 +1,3 @@
-# Demonstrated Concepts
+# Projects Grouped by Demonstrated Concepts
 
 <!-- material/tags -->
