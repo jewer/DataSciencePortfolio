@@ -34,7 +34,9 @@ nav:
  - Concepts: concepts.md
  - About: 
    - About Me: about/about.md
+   - Contact: about/contact.md
    - Resume: about/resume.md
+
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -49,3 +51,8 @@ plugins:
   - search
   - tags: 
       tags_file: concepts.md
+#  - mkdocs-jupyter:
+#      ignore_h1_titles: True
+#      include_requirejs: true
+#      include_source: True
+#      include: ["*.ipynb"] 
