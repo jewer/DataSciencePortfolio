@@ -27,8 +27,9 @@ theme:
     - search.suggest
     - search.highlight
 nav:
+ - Home: index.md
  - Projects: 
-   - List: projects/index.md
+   - List: projects/list.md
    - Project1: projects/project1.md
    - Project2: projects/project2.md
  - Concepts: concepts.md
