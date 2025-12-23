@@ -1,0 +1,1 @@
+{"mappings": [{"item": {"url": "projects/mlb-uplift/", "title": "Simulated Uplift of MLB Ticket Sales"}, "tags": ["Exploratory Data Analysis", "Machine Learning"]}, {"item": {"url": "projects/sarima/sarima/", "title": "SARIMA Time-series Retail Analysis"}, "tags": ["Hyperparameter Tuning", "Machine Learning"]}]}
