@@ -4,7 +4,7 @@ repo_url: https://github.com/jewer/DataSciencePortfolio
 repo_name: 'jewer/DataSciencePortfolio'
 docs_dir: docs/
 extra:
-  homepage: https://jewer.github.io/DataSciencePortfolio/projects/index.html
+  homepage: https://jewer.github.io/DataSciencePortfolio/projects/list/
 theme:
   name: material
   palette:
