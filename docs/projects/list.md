@@ -15,6 +15,12 @@ This notebook analyzes global life expectancy data from the World Health Organiz
 
 For more detail, [click here](who-exploration.md)
 
+### Time-series Retail Analysis
+
+This notebook demonstrates time series forecasting workflow using real-world U.S. retail sales data.  It compares SARIMA and Holt-Winters algorithms to identify long-term trends and seasonal patterns. 
+
+For more detail, [click here](sarima/sarima.md)
+
 ### Predicting Presence of Heart Disease (Upcoming DSC680)
 
 For more detail, [click here](heart.md)
@@ -27,9 +33,6 @@ For more detail, [click here](project3.md)
 
 For more detail, [click here](childcare.md)
 
-### SARIMA Time-series Retail Analysis
-
-For more detail, [click here](sarima/sarima.md)
 
 ### Ticket Sales Uplift in MLB Games
 

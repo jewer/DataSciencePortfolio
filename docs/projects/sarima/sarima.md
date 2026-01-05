@@ -4,7 +4,7 @@ tags:
   - Hyperparameter Tuning
 ---
 
-# SARIMA Time-series Retail Analysis
+# Time-series Retail Analysis
 
 ## Background
 This notebook demonstrates a complete time series forecasting workflow using real-world U.S. retail sales data. Key techniques include reshaping wide-format data into a tidy time series structure, constructing a proper datetime index, and performing exploratory visualization to identify long-term trends and seasonal patterns. 

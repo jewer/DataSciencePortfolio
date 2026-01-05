@@ -15,4 +15,4 @@ The second half of the notebook focuses on preparing the data and building predi
 
 Overall, the notebook demonstrates a full data science workflow, from data cleaning and feature selection to model evaluation, while highlighting how economic and health-related factors combine to influence life expectancy outcomes.
 
-Notebook here:  https://github.com/jewer/DataSciencePortfolio/blob/main/code/who/WHOLifeExpectancy.ipynb
+Notebook here:  [WHOLifeExpectancy](https://github.com/jewer/DataSciencePortfolio/blob/main/code/who/WHOLifeExpectancy.ipynb)
