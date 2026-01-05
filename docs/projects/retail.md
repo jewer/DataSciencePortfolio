@@ -16,5 +16,6 @@ To do this, the project uses a mix of supervised and unsupervised learning techn
 
 Even though the data is simulated, the results show realistic trends and customer behaviors, making this a solid example of how predictive analytics can support inventory planning, marketing, and customer retention.
 
-Whitepaper here: [RetailCustomerAnalysis.pdf](https://github.com/jewer/DataSciencePortfolio/blob/main/code/retail/RetailCustomerAnalysis.pdf)
-Notebook here: [Retail notebook](https://github.com/jewer/DataSciencePortfolio/blob/main/code/retail/Appendix.ipynb)
+### Working Code
+- Whitepaper here: [RetailCustomerAnalysis.pdf](https://github.com/jewer/DataSciencePortfolio/blob/main/code/retail/RetailCustomerAnalysis.pdf)
+- Notebook here: [Retail notebook](https://github.com/jewer/DataSciencePortfolio/blob/main/code/retail/Appendix.ipynb)
