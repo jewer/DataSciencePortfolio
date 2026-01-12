@@ -1,3 +1,10 @@
+---
+tags:
+  - Machine Learning
+  - Exploratory Data Analysis
+  - Regression
+---
+
 # Predicting Presence of Heart Disease
 
 This project explores whether commonly collected clinical measurements can be used to predict the presence of heart disease using machine learning. Using a public UCI/Kaggle heart disease dataset with 1,025 patient records, the analysis focused on transforming routine diagnostic indicators—such as chest pain type, blood pressure, cholesterol, ECG results, exercise-induced angina, and imaging outcomes—into a predictive model that could support clinical decision-making. The goal was not to replace medical judgment, but to evaluate how data-driven tools might help identify higher-risk patients earlier and prioritize further testing. Particular attention was paid to data quality, feature encoding, correlation analysis, and ethical considerations around false negatives in a healthcare context.

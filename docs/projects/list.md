@@ -29,6 +29,10 @@ For more detail, [click here](childcare.md)
 
 ### Predicting Presence of Heart Disease (Upcoming DSC680)
 
+This project evaluates whether routinely collected clinical data can be used to predict the presence of heart disease, using a UCI/Kaggle dataset of 1,025 patient records and emphasizing careful data preparation, feature selection, and ethical considerations around false negatives in healthcare. 
+
+A Logistic Regression baseline was compared to a Gradient Boosting model, with the ensemble approach achieving substantially higher performance (ROC-AUC ≈ 0.98), demonstrating how non-linear models can improve predictive accuracy while still aligning with established clinical risk factors.
+
 For more detail, [click here](heart.md)
 
 ### Project 3 (Upcoming DSC680)
