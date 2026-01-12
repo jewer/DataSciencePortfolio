@@ -32,10 +32,9 @@ theme:
 nav:
  - Projects: projects/list.md
  - Concepts: concepts.md
- - About: 
+ - About/Contact: 
    - About Me: about/about.md
    - Contact: about/contact.md
-   - Resume: about/resume.md
 
 
 markdown_extensions:
