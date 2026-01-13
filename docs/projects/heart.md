@@ -12,6 +12,6 @@ This project looks at whether everyday clinical measurements can be used to help
 The project compared a simple, easy-to-interpret Logistic Regression model with a more advanced machine learning approach (Gradient Boosting ensemble) to see how much predictive performance could be improved. The more flexible model performed significantly better, showing that patterns in routine health data can be used to make surprisingly accurate predictions, while also reinforcing the importance of using these tools carefully and ethically in healthcare settings.
 
 ### Working Code
-- Whitepaper here: [ChildcareCosts.pdf](https://github.com/jewer/DataSciencePortfolio/blob/main/code/heart/HeartDisease.pdf)
-- Powerpoint here: [ChildcareCosts.pptx](https://github.com/jewer/DataSciencePortfolio/blob/main/code/heart/HeartDisease.pptx)
-- Notebook here: [ChildcareCosts.ipynb](https://github.com/jewer/DataSciencePortfolio/blob/main/code/heart/HeartDisease.ipynb)
+- Whitepaper here: [HeartDisease.pdf](https://github.com/jewer/DataSciencePortfolio/blob/main/code/heart/HeartDisease.pdf)
+- Powerpoint here: [HeartDisease.pptx](https://github.com/jewer/DataSciencePortfolio/blob/main/code/heart/HeartDisease.pptx)
+- Notebook here: [HeartDisease.ipynb](https://github.com/jewer/DataSciencePortfolio/blob/main/code/heart/HeartDisease.ipynb)

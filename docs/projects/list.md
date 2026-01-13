@@ -11,11 +11,21 @@ For more detail, [click here](retail.md)
 
 ---
 
+### Predicting Presence of Heart Disease Through Clinical Results
+
+This project evaluates whether routinely collected clinical data can be used to predict the presence of heart disease, using a public dataset anonymous patient records.  It demonstrates careful data preparation, feature selection, and ethical considerations around false negatives in healthcare. 
+
+This project conmpares a Logistic Regression baseline to a Gradient Boosting model (with significantly higher performance), showing how non-linear models can improve predictive accuracy.
+
+For more detail, [click here](heart.md)
+
+---
+
 ### Life Expectancy Analysis and Predictions
 
-This notebook analyzes global life expectancy data from the World Health Organization to identify which health and economic factors are most strongly associated with lower life expectancy across countries. It walks through data exploration, cleaning, and modeling using multiple regression techniques to show how factors like infant mortality, income, and healthcare access relate to life expectancy outcomes.
+This project analyzes World Health Organization life expectancy data to identify which health, economic, and social factors are most strongly associated with differences in life expectancy across countries. Using exploratory analysis and predictive models including linear regression, Random Forest, and XGBoost, the work emphasizes interpretability, ethical use of global health data, and insights that can support evidence-based public health decision-making.
 
-For more detail, [click here](who-exploration.md)
+For more detail, TBD...
 
 ---
 
@@ -32,24 +42,6 @@ For more detail, [click here](sarima/sarima.md)
 This project analyzes U.S. childcare cost data from 2008–2018 to show how childcare—especially infant care—has become more expensive over time and varies widely by state and county. Using clear visualizations and a data storytelling approach, it highlights how rising childcare costs create a growing financial burden for families and frames the issue as a policy problem rather than an individual one.
 
 For more detail, [click here](childcare.md)
-
----
-
-### Predicting Presence of Heart Disease (Upcoming DSC680)
-
-This project evaluates whether routinely collected clinical data can be used to predict the presence of heart disease, using a public dataset anonymous patient records.  It demonstrates careful data preparation, feature selection, and ethical considerations around false negatives in healthcare. 
-
-This project conmpares a Logistic Regression baseline to a Gradient Boosting model (with significantly higher performance), showing how non-linear models can improve predictive accuracy.
-
-For more detail, [click here](heart.md)
-
----
-
-### Project 3 (Upcoming DSC680)
-
----
-
-For more detail, [click here](project3.md)
 
 ---
 
