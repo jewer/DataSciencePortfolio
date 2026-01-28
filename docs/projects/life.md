@@ -2,6 +2,7 @@
 tags:
   - Exploratory Data Analysis
   - Machine Learning
+  - Regression
 ---
 
 # Predicting Life Expectancy Using Global Health Data
