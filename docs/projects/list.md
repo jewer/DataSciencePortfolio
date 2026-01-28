@@ -25,7 +25,7 @@ For more detail, [click here](heart.md)
 
 This project analyzes World Health Organization life expectancy data to identify which health, economic, and social factors are most strongly associated with differences in life expectancy across countries. Using exploratory analysis and predictive models including linear regression, Random Forest, and XGBoost, the work emphasizes interpretability, ethical use of global health data, and insights that can support evidence-based public health decision-making.
 
-For more detail, TBD...
+For more detail, [click here](life.md)
 
 ---
 
