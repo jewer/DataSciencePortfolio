@@ -45,14 +45,6 @@ For more detail, [click here](childcare.md)
 
 ---
 
-### Ticket Sales Uplift in MLB Games
-
-This project demonstrates a suggestion for creating an uplift in ticket sales for major league baseball team.  
-
-For more detail, [click here](mlb-uplift.md)
-
----
-
 ### Optical Recognition with Tensorflow/Keras
 
 Using keras and tensorflow, demonstrate using optical recognition to build a model that can identify a digit from a handwritten sample.
