@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hyperparamter Tuning
+  - Hyperparameter Tuning
 ---
 
 # GridSearch for hyperparameter tuning
